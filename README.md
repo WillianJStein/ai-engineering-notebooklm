@@ -2,11 +2,13 @@
 
 ### NotebookLM applied to AI Engineering training
 
+> Structured AI Engineering project focused on Prompt Engineering, RAG and controlled LLM behavior.
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineering-Neon%20Purple-8A2BE2?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/NotebookLM-Google-00FFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-0ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Complete-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-AI%20Engineering%20Project-8A2BE2?style=for-the-badge" />
 </p>
 
 ---
