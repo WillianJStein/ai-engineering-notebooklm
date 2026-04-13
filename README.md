@@ -1,27 +1,27 @@
-# 🧠 AI Engineering Training System
+# AI Engineering Training System
 
-### NotebookLM aplicado à formação de Engenheiro de IA
+### NotebookLM applied to AI Engineering training
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Engineering-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NotebookLM-Google-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Prompt%20Engineering-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Professional-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-Neon%20Purple-8A2BE2?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/NotebookLM-Google-00FFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-0ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Complete-black?style=for-the-badge" />
 </p>
 
 ---
 
-## 🇧🇷 PT-BR
+## PT-BR
 
-## 📌 Visão Geral
+## Visão Geral
 
-Este projeto demonstra a aplicação do **NotebookLM como um sistema de treinamento em Engenharia de IA**, utilizando curadoria de conteúdo técnico e técnicas avançadas de interação com modelos de linguagem.
+Este projeto demonstra a aplicação do NotebookLM como um sistema estruturado de treinamento em Engenharia de IA, utilizando curadoria de conteúdo técnico e técnicas avançadas de interação com modelos de linguagem.
 
-O objetivo não é apenas utilizar IA, mas **estruturar, controlar e otimizar seu comportamento**, como um engenheiro faria.
+O foco não é apenas utilizar IA, mas estruturar, controlar e otimizar seu comportamento de forma profissional.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Construir um ambiente onde a IA:
 
@@ -33,7 +33,7 @@ Construir um ambiente onde a IA:
 
 ---
 
-## 🧠 Arquitetura do Conhecimento
+## Arquitetura do Conhecimento
 
 ```mermaid
 flowchart TD
@@ -45,85 +45,97 @@ D --> E[Aprendizado Iterativo]
 
 ---
 
-## ⚙️ Tecnologias e Conceitos
+## Tecnologias e Conceitos
 
 * Prompt Engineering
 * LLM (Large Language Models)
 * RAG (Retrieval Augmented Generation)
-* Controle de Alucinação
+* Controle de alucinação
 * Segurança em IA
 
 ---
 
-## 🧪 Testes de Engenharia de Prompt
+## Testes de Engenharia de Prompt
 
-### 🔹 Prompt Genérico
+### Prompt Genérico
 
 ```text
 Explique prompt engineering
 ```
 
-➡️ Resultado: resposta superficial
+Resultado: resposta superficial, sem aplicação prática.
 
 ---
 
-### 🔹 Prompt Estruturado
+### Prompt Estruturado
 
 ```text
 Explique prompt engineering como um engenheiro de IA, com exemplos práticos e exercício aplicado
 ```
 
-➡️ Resultado: resposta técnica e aplicável
+Resultado: resposta técnica, estruturada e com aplicação prática.
 
 ---
 
-### 📊 Comparação
+### Conclusão
 
-| Critério          | Genérico | Estruturado |
-| ----------------- | -------- | ----------- |
-| Profundidade      | ❌        | ✅           |
-| Clareza           | ❌        | ✅           |
-| Aplicação prática | ❌        | ✅           |
+A estrutura do prompt impacta diretamente a qualidade das respostas. Prompts bem definidos aumentam precisão, profundidade e aplicabilidade.
 
 ---
 
-## 📘 Aprendizados
+## Evidence
 
-* A qualidade da IA depende diretamente do prompt
-* Restrições reduzem alucinação
-* Contexto melhora drasticamente as respostas
-* Iteração é essencial
+### NotebookLM Interaction
+
+![Basic Test](./assets/test-basic.png)
+
+![Advanced Test](./assets/test-advanced.png)
 
 ---
 
-## 📂 Estrutura do Projeto
+### Knowledge Base (Sources)
+
+![Sources](./assets/notebook-sources.png)
+
+---
+
+## Estrutura do Projeto
 
 ```bash
 .
 ├── README.md
-└── docs/
-    └── prompt-tests.md
+├── docs/
+│   └── prompt-tests.md
+└── assets/
 ```
 
 ---
 
-## 🚀 Conclusão
+## Detalhamento dos Testes
 
-O projeto demonstra que a IA pode ser transformada em um **sistema de aprendizado ativo**, quando corretamente estruturada com engenharia de prompt e curadoria de conhecimento.
+O detalhamento completo dos testes pode ser encontrado em:
 
----
-
-## 🇺🇸 ENGLISH
-
-## 📌 Overview
-
-This project demonstrates how **NotebookLM can be used as an AI Engineering training system**, using curated technical content and advanced prompt engineering techniques.
-
-The goal is not just to use AI, but to **structure, control, and optimize its behavior**.
+docs/prompt-tests.md
 
 ---
 
-## 🎯 Objective
+## Conclusão
+
+Este projeto demonstra como a IA pode ser utilizada de forma estruturada para aprendizado técnico, aplicando princípios de engenharia de prompt e curadoria de conhecimento.
+
+---
+
+## ENGLISH
+
+## Overview
+
+This project demonstrates how NotebookLM can be used as a structured AI Engineering training system, using curated technical content and advanced prompt engineering techniques.
+
+The goal is not just to use AI, but to structure, control, and optimize its behavior.
+
+---
+
+## Objective
 
 Build an environment where AI:
 
@@ -135,7 +147,7 @@ Build an environment where AI:
 
 ---
 
-## 🧠 Knowledge Architecture
+## Knowledge Architecture
 
 ```mermaid
 flowchart TD
@@ -147,7 +159,7 @@ D --> E[Iterative Learning]
 
 ---
 
-## ⚙️ Technologies & Concepts
+## Technologies & Concepts
 
 * Prompt Engineering
 * LLM (Large Language Models)
@@ -157,49 +169,30 @@ D --> E[Iterative Learning]
 
 ---
 
-## 🧪 Prompt Engineering Tests
+## Prompt Engineering Tests
 
-### 🔹 Basic Prompt
+### Basic Prompt
 
 ```text
 Explain prompt engineering
 ```
 
-➡️ Result: shallow response
+Result: shallow response.
 
 ---
 
-### 🔹 Structured Prompt
+### Structured Prompt
 
 ```text
 Explain prompt engineering as an AI engineer, including practical examples and exercises
 ```
 
-➡️ Result: deep and practical response
+Result: structured and practical response.
 
 ---
 
-### 📊 Comparison
+## Conclusion
 
-| Criteria      | Basic | Structured |
-| ------------- | ----- | ---------- |
-| Depth         | ❌     | ✅          |
-| Clarity       | ❌     | ✅          |
-| Practical Use | ❌     | ✅          |
-
----
-
-## 📘 Key Learnings
-
-* Output quality depends on prompt quality
-* Constraints reduce hallucinations
-* Context improves responses
-* Iteration is critical
-
----
-
-## 🚀 Conclusion
-
-This project shows how AI can be transformed into an **active learning system** through structured prompt engineering and curated knowledge.
+Prompt structure directly impacts output quality. Well-designed prompts produce more reliable and useful responses.
 
 ---
