@@ -28,7 +28,7 @@ O foco é tratar a IA como um sistema que pode ser projetado, controlado e otimi
 Construir um ambiente onde a IA:
 
 * Atua como mentor técnico
-* Ensha conceitos avançados
+* Ensina conceitos avançados
 * Propõe exercícios práticos
 * Corrige respostas
 * Simula cenários reais
@@ -136,6 +136,19 @@ NotebookLM configurado com fontes técnicas (PDFs e guias) e prompt mestre, gara
 O detalhamento completo dos testes está disponível em:
 
 docs/prompt-tests.md
+
+---
+
+## Diferencial do Projeto
+
+Este projeto não se limita ao uso de IA, mas demonstra a aplicação prática de engenharia de prompt, incluindo:
+
+* Comparação entre prompts genéricos e estruturados
+* Controle de comportamento da IA
+* Uso de contexto e restrições
+* Simulação de aplicação em cenários reais
+
+Essa abordagem aproxima o projeto de aplicações reais utilizadas no mercado.
 
 ---
 
