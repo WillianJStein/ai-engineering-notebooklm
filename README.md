@@ -19,7 +19,7 @@
 
 Este projeto demonstra a aplicação do NotebookLM como um sistema estruturado de treinamento em Engenharia de IA, utilizando curadoria de conteúdo técnico e técnicas avançadas de interação com modelos de linguagem.
 
-O foco não é apenas utilizar IA, mas estruturar, controlar e otimizar seu comportamento de forma profissional.
+O foco é tratar a IA como um sistema que pode ser projetado, controlado e otimizado — e não apenas utilizado.
 
 ---
 
@@ -27,11 +27,11 @@ O foco não é apenas utilizar IA, mas estruturar, controlar e otimizar seu comp
 
 Construir um ambiente onde a IA:
 
-* Atue como mentor técnico
-* Ensine conceitos avançados
-* Proponha exercícios
-* Corrija respostas
-* Simule cenários reais
+* Atua como mentor técnico
+* Ensha conceitos avançados
+* Propõe exercícios práticos
+* Corrige respostas
+* Simula cenários reais
 
 ---
 
@@ -65,7 +65,7 @@ D --> E[Aprendizado Iterativo]
 Explique prompt engineering
 ```
 
-Resultado: resposta superficial, sem aplicação prática.
+Resultado: resposta conceitual, com baixa profundidade prática e sem direcionamento técnico.
 
 ---
 
@@ -75,13 +75,18 @@ Resultado: resposta superficial, sem aplicação prática.
 Explique prompt engineering como um engenheiro de IA, com exemplos práticos e exercício aplicado
 ```
 
-Resultado: resposta técnica, estruturada e com aplicação prática.
+Resultado: resposta estruturada, com aplicação prática, exemplos e simulação de contexto profissional.
 
 ---
 
 ### Conclusão
 
-A estrutura do prompt impacta diretamente a qualidade das respostas. Prompts bem definidos aumentam precisão, profundidade e aplicabilidade.
+A estrutura do prompt impacta diretamente:
+
+* Qualidade da resposta
+* Profundidade técnica
+* Aplicabilidade prática
+* Capacidade de integração em sistemas reais
 
 ---
 
@@ -89,15 +94,28 @@ A estrutura do prompt impacta diretamente a qualidade das respostas. Prompts bem
 
 ### NotebookLM Interaction
 
-![Basic Test](./assets/test-basic.png)
+![NotebookLM Basic Interaction](./assets/test-basic.png)
 
-![Advanced Test](./assets/test-advanced.png)
+**Legenda:**
+Interação inicial com NotebookLM utilizando um prompt genérico, resultando em resposta descritiva e pouco aplicada.
 
 ---
 
-### Knowledge Base (Sources)
+### Prompt Engineering Comparison
 
-![Sources](./assets/notebook-sources.png)
+![Prompt Comparison](./assets/prompt-comparison.png)
+
+**Legenda:**
+Comparação direta entre um prompt genérico (❌) e um prompt estruturado (✅), evidenciando ganho de qualidade, profundidade e aplicabilidade na resposta.
+
+---
+
+### Knowledge Base Configuration
+
+![Knowledge Base](./assets/knowledge-base.png)
+
+**Legenda:**
+NotebookLM configurado com fontes técnicas (PDFs e guias) e prompt mestre, garantindo respostas fundamentadas e controladas.
 
 ---
 
@@ -115,7 +133,7 @@ A estrutura do prompt impacta diretamente a qualidade das respostas. Prompts bem
 
 ## Detalhamento dos Testes
 
-O detalhamento completo dos testes pode ser encontrado em:
+O detalhamento completo dos testes está disponível em:
 
 docs/prompt-tests.md
 
@@ -123,7 +141,7 @@ docs/prompt-tests.md
 
 ## Conclusão
 
-Este projeto demonstra como a IA pode ser utilizada de forma estruturada para aprendizado técnico, aplicando princípios de engenharia de prompt e curadoria de conhecimento.
+Este projeto demonstra, na prática, como a engenharia de prompt permite transformar modelos de linguagem em sistemas mais previsíveis, controláveis e aplicáveis em cenários reais.
 
 ---
 
@@ -131,9 +149,9 @@ Este projeto demonstra como a IA pode ser utilizada de forma estruturada para ap
 
 ## Overview
 
-This project demonstrates how NotebookLM can be used as a structured AI Engineering training system, using curated technical content and advanced prompt engineering techniques.
+This project demonstrates how NotebookLM can be used as a structured AI Engineering training system, leveraging curated technical sources and advanced prompt engineering techniques.
 
-The goal is not just to use AI, but to structure, control, and optimize its behavior.
+The focus is to treat AI as an engineered system — not just a tool.
 
 ---
 
@@ -143,7 +161,7 @@ Build an environment where AI:
 
 * Acts as a technical mentor
 * Teaches advanced concepts
-* Provides exercises
+* Provides practical exercises
 * Corrects answers
 * Simulates real-world scenarios
 
@@ -179,7 +197,7 @@ D --> E[Iterative Learning]
 Explain prompt engineering
 ```
 
-Result: shallow response.
+Result: conceptual response with low practical applicability.
 
 ---
 
@@ -189,12 +207,17 @@ Result: shallow response.
 Explain prompt engineering as an AI engineer, including practical examples and exercises
 ```
 
-Result: structured and practical response.
+Result: structured, practical and context-driven response.
 
 ---
 
 ## Conclusion
 
-Prompt structure directly impacts output quality. Well-designed prompts produce more reliable and useful responses.
+Prompt structure directly impacts:
+
+* Output quality
+* Technical depth
+* Practical usability
+* System integration capability
 
 ---
